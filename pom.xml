@@ -5,6 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>Optimist</name>
   <description>Automation Testing Framework using Selenium, Cucumber, Maven, JUnit.</description>
+  
   <dependencies>
   	<dependency>
 	    <groupId>info.cukes</groupId>
